@@ -1,0 +1,3 @@
+<?php
+fscanf(STDIN,"%d%d",$a,$b);
+print($a*$b . " ". ($a+$b)*2 . "\n");
